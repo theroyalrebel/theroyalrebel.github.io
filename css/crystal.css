@@ -11,7 +11,11 @@ div.transbox {
 .img-responsive {
   padding-top: 30px;
   padding-bottom: 30px;
+}
 
+h3 {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 /* Sticky footer styles
